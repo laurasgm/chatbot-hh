@@ -1,0 +1,9 @@
+{'entry': [{'id': '2663046327056654',
+            'messaging': [{'message': {'mid': '0hyxOFeKkX5x-yv1xxJqOKEwWRayebvvIj3-qhBEaiy4Y-dPNZ7mUwnrXEONJnfnJr5uBbGmLqIYl2Mf457Qyg',
+                                       'seq': 0,
+                                       'text': 'prueba'},
+                           'recipient': {'id': '2663046327056654'},
+                           'sender': {'id': '2572819526075432'},
+                           'timestamp': 1562525812145}],
+            'time': 1562525812434}],
+ 'object': 'page'}
